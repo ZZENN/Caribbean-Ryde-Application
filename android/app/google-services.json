@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065527965532",
+    "project_id": "carribean-ryde",
+    "storage_bucket": "carribean-ryde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065527965532:android:37bccb63b7c6d242caf399",
+        "android_client_info": {
+          "package_name": "com.example.ryde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065527965532-mg6ulimdedq6ssknt5j1a9dse7rnt19e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhaYi69exHSz_tfCv0PSinH_jGDz-NHX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065527965532-mg6ulimdedq6ssknt5j1a9dse7rnt19e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
